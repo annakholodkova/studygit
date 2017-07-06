@@ -1,0 +1,12 @@
+.text {
+	font-family: Verdana, Arial, sans-serif;
+}
+
+.header_text {
+	font-size: 16pt;
+}
+
+.plain_text {
+	font-size: 12pt;
+	color: red;
+}
